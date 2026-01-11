@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Java**
 
-- 👨‍💻 All of my projects are available at [mobidevv.netlify.app](mobidevv.netlify.app)
+- 👨‍💻 All of my projects are available at [mobidevv.netlify.app](https://mobidevv.netlify.app)
 
 - 📫 How to reach me **pradhanchinmaya0118@gmail.com**
 
